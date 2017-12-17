@@ -1,0 +1,2 @@
+# Bayesian optimization (requires GPy)
+gpyopt

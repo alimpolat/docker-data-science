@@ -1,0 +1,60 @@
+# Basic
+pandas 
+jupyter 
+scipy 
+statsmodels
+
+# Scraping
+requests
+scrapy 
+bs4 
+feedparser
+
+# DB connection
+psycopg2 
+pyodbc
+
+# General ML
+sklearn 
+xgboost
+
+# Deep learning
+tensorflow 
+keras 
+h5py 
+keras-rl
+
+# Evolutionary algorithms
+deap 
+
+# Feature selection
+skrebate
+
+# Clustering
+Cluster_Ensembles
+
+# NLP
+nltk 
+flashtext
+
+# Imbalanced dataset
+imbalanced-learn
+
+# Bayesian optimization
+bayesian-optimization
+GPy
+
+# Model explainability
+lime
+
+# Web framework
+flask
+
+# Visualization
+matplotlib 
+seaborn 
+bokeh
+
+# Utilities
+boto3
+
