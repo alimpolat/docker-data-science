@@ -1,7 +1,7 @@
 # Docker - Data Science
 A Docker environment for data science in Python 3
 
-![docker logo](https://github.com/jaimeps/docker-data-science/blob/master/images/docker_logo.png | width=100)
+![docker logo](https://github.com/jaimeps/docker-data-science/blob/master/images/docker_logo.png)
 
 ## Description:
 A Docker image ready for development of data science projects in Python 3. 
