@@ -26,6 +26,13 @@ Includes: <br />
  />
  **15. Others:** [boto3](https://boto3.readthedocs.io/en/latest/), [h5py](http://www.h5py.org/) <br />
 
+## Docker Hub
+
+You can directly pull the [built image from Docker Hub](https://hub.docker.com/r/jaimeps/dsp3/) by running
+```
+docker pull jaimeps/dsp3
+```
+
 ## References
 - [Docker Docs - Best practices](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
 - Karl Matthias & Sean P. Kane - *Docker: Up and Running*
